@@ -1,4 +1,7 @@
-# hello-world
-Just finish the tutorial
+# 这是我的第一个小程序
+---
+## 1.我只是简单的向体验一下github上的markdown功能
 
-I make some changes in this branch
+## 2.我只是想学习一下git功能
+
+## 3.我的语言能力相当匮乏
